@@ -1,0 +1,9 @@
+flask
+torch
+torchvision
+numpy
+pillow
+opencv-python
+pandas
+scikit-learn
+efficientnet-pytorch
